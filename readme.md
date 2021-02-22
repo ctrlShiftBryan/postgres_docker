@@ -1,4 +1,4 @@
-# use docker for postgres
+# how use docker for postgres
 
 ```
 brew install libpq
@@ -7,5 +7,6 @@ brew install libpq
 ```
 psql -h localhost -U postgres postgres
 ```
+
 
 
